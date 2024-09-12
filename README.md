@@ -1,4 +1,4 @@
-                                                      TITLE : JAVA PROGRAMMING INTERNSHIP - CODE ALPHA
+                                              TITLE : JAVA PROGRAMMING INTERNSHIP - CODE ALPHA
 
 This repository contains the projects I completed as part of my Java programming internship with Code Alpha. Throughout this internship, I worked on real-world projects that helped me strengthen my Java programming skills, especially in Object-Oriented Programming (OOP).
 
@@ -46,3 +46,5 @@ Object-Oriented Programming (OOP) principles
 c) Conclusion:
 
 Each of these projects helped me gain practical experience in Java development, focusing on problem-solving, OOP concepts, and building functional applications. I'm excited to continue applying these skills in future projects!
+
+AUTHOR:  AQSA TARIQ
